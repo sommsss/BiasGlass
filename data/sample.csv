@@ -1,0 +1,11 @@
+gender,age,income,approved
+male,25,50000,1
+female,30,40000,0
+male,35,60000,1
+female,28,45000,1
+male,40,70000,1
+female,32,48000,0
+male,29,52000,0
+female,31,47000,1
+male,38,65000,1
+female,27,42000,0
